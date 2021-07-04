@@ -20,7 +20,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY ID DESC");
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="add.html">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
       </li>
     </ul>
   </div>
